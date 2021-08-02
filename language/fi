@@ -141,6 +141,15 @@
 			"tip": "Säädä piirtoalueen kokoa",
 			"help": "Napauta tästä säätääksesi piirtoalueen mittasuhteita"
 		},
+		"design-selector": {
+			"title": "Mallit",
+			"keep": "Pidä nykyinen malli",
+			"use_new": "Käytä uutta mallia",
+			"cancel": "Peruuta",
+			"okay": "Ok",
+			"warning_title": "Vaihda malli",
+			"warning": "Saatat menettää tekemäsi muutokset. Haluatko jatkaa?"
+		},
 		"page-loader": {
 			"add": "Lisää sivu",
 			"delete": "Poista sivu",
